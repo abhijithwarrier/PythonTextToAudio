@@ -1,0 +1,2 @@
+# PythonTextToAudio
+PYTHON SCRIPT TO CONVERT THE USER-INPUT TEXT TO AUDIO FILE AND PLAY THE SAVED AUDIO FILE using gTTS and pygame modules of Python.
